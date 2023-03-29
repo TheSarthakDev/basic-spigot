@@ -1,2 +1,2 @@
 # Welcome
-Here are the some of the examples for the events happend in minecraft.
+Here are the some of the examples for the events happens in minecraft.
